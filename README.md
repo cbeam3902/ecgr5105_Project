@@ -1,6 +1,6 @@
 # ecgr5105_Project
 
-Because of updates to PyTorch, you need to replace `from torch.autograd.gradcheck import zero_gradients` with 
+Because of updates to PyTorch, you need to replace `from torch.autograd.gradcheck import zero_gradients` from `DeepFool/Python/deepfool.py` with 
 
 ```
 def zero_gradients(x):

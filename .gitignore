@@ -1,1 +1,9 @@
 DeepFool/*
+models
+logs
+data
+__pycache__
+.ipynb_checkpoints
+training.py
+test.ipynb
+perturbedDataset
